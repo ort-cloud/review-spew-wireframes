@@ -24,6 +24,12 @@ nav {
   z-index: 10;
 }
 
+a {
+  float: right;
+  clear: right;
+  margin-right: 10px;
+}
+
 header {
   padding: 45px 15px;
 }
